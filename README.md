@@ -30,6 +30,6 @@ results :
 	
 	Results.initial_p    #NNLS results
 	Results.weight_p     #Weighted-NNLS results
-	Results.R2			 #R-squared for weighted-NNLS
+	Results.R2	     #R-squared for weighted-NNLS
 	...
 	...
