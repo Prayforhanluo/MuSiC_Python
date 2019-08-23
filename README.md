@@ -1,8 +1,6 @@
-##
-README
+## README
 
-####
-MuSiC in python.
+#### MuSiC in python.
 
 Reproduce the deconvolution function of MuSiC.
 
