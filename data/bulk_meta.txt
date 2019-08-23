@@ -88,3 +88,4 @@ Sub86	86	GSM1216838	54	26.1	5.6	Male	pancreatic islets
 Sub87	87	GSM1216839	68	24.7	6	Male	pancreatic islets
 Sub88	88	GSM1216840	30	22.8	5.6	Male	pancreatic islets
 Sub89	89	GSM1216841	37	24.8	5.3	Male	pancreatic islets
+
