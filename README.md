@@ -2,13 +2,13 @@
 
 #### MuSiC in python.
 
-Reproduce the deconvolution function of MuSiC.
+Multi-subject Single Cell deconvolution(MuSiC) with python code.
 
 More information about MuSiC here [xuranw's github](https://github.com/xuranw/MuSiC)
 
-Fix some bug in original MuSiC when calculate the weight by co-variance of cross-subject.
+Fix some bugs in original MuSiC when calculate the weight by co-variance of multi-subject.
 
-Data formats as txt in data dirct
+Data formats(TXT) examples can be found in data folder.
 
 Use the function like :
 	
@@ -22,7 +22,7 @@ Use the function like :
 	 #weight gene by variance of cross-subject
 	 Results =  music_prop(bulk_Meta, bulk_Count, sc_Meta, sc_Count,ct_cov=False, select_ct=select_ct)
 	 
-     #weight gene by co-variance of cross-subject
+     	 #weight gene by co-variance of cross-subject
 	 Results =  music_prop(bulk_Meta, bulk_Count, sc_Meta, sc_Count,ct_cov=True, select_ct=select_ct)
 
 
